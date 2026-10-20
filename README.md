@@ -1,2 +1,3 @@
 # Alura_react
-repo de estudos de react alunar
+repo de estudos de react alura
+
